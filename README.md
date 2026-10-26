@@ -1,7 +1,6 @@
 # Olá, eu sou o Heberth
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/heberth-augusto-ti/)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heberthbeta@gmail.com)
 
 ## 🧑‍💻 Sobre mim
 
@@ -93,4 +92,4 @@ As demos do Calendário e do EstoqueMax rodam com dados fictícios, direto no na
 
 ## 🎤 Idiomas
 
-Falo **português** como língua materna e tenho **inglês** intermediário, com leitura técnica fluente.
+Falo **português** como língua materna e tenho **inglês** intermediário.
