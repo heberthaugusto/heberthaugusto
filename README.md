@@ -1,6 +1,7 @@
-# Olá, eu sou o Heberth
+# Olá, eu sou o Heberth 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/heberth-augusto-ti/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 ## 🧑‍💻 Sobre mim
 
@@ -20,6 +21,10 @@ Formação em Análise e Desenvolvimento de Sistemas e Pedagogia, unindo tecnolo
 | [**EstoqueMax**](https://github.com/heberthaugusto/portfolio-app-estoquemax) | App mobile (PWA) de inventário e recebimento de mercadorias, com leitura de código de barras pela câmera, offline, múltiplas validades e exportação para o ERP. | [Abrir no celular](https://heberthaugusto.github.io/portfolio-app-estoquemax/) |
 | [**Rega do Condomínio**](https://github.com/heberthaugusto/rega-condominio) | Projeto pessoal. PWA que organiza o revezamento de rega das plantas do condomínio, com Firestore em tempo real, notificações push e cron no GitHub Actions. | [App](https://heberthaugusto.github.io/rega-condominio/) (acesso dos moradores) |
 | [**Portfólio MySQL**](https://github.com/heberthaugusto/portfolio-mysql) | Relatórios SQL de estoque, vendas, compras, financeiro e fiscal em ambiente ERP, com a regra de negócio explicada em cada consulta. | Código |
+| [**Estudo de caso: integração e-commerce x ERP**](https://github.com/heberthaugusto/integracao-ecommerce-erp-estudo-de-caso) | Arquitetura e decisões de uma integração em produção (webhooks, filas, reconciliação, pedidos mistos), cerca de 1.600 pedidos por mês. Texto, sem código da empresa. | Leitura |
+| [**Padrões de integração em Python**](https://github.com/heberthaugusto/padroes-integracao-python) | Sete padrões reescritos de forma genérica e com 27 testes: webhook assinado, lock por pedido, fila de retentativas, sincronização com espera, agenda de promoções, pedido misto e status idempotente. | Código |
+| [**Controle de validade**](https://github.com/heberthaugusto/controle-validade) | Lançador em Python que alimenta a planilha de validades a partir do EstoqueMax e alerta diário por e-mail dos produtos a vencer. | Código |
+| [**Pesquisa de preços**](https://github.com/heberthaugusto/pesquisa-precos) | Aplicativo desktop em Python (Playwright, openpyxl, Tkinter) que extrai preços de concorrentes e atualiza a planilha em aba datada. | Código |
 
 As demos do Calendário e do EstoqueMax rodam com dados fictícios, direto no navegador.
 
@@ -92,4 +97,4 @@ As demos do Calendário e do EstoqueMax rodam com dados fictícios, direto no na
 
 ## 🎤 Idiomas
 
-Falo **português** como língua materna e tenho **inglês** intermediário.
+Falo **português** como língua materna e tenho **inglês** intermediário, com leitura técnica fluente.
