@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Coordenador de TI e Processos com mais de 12 anos de experiência em TI, no varejo e na educação, com foco em **automação de processos**, **integração de sistemas** (ERP, e-commerce, marketplace, APIs) e **desenvolvimento e automação com IA generativa**. Desenvolvi e mantive uma integração e-commerce x ERP com cerca de 1.600 pedidos por mês, automatizei rotinas financeiras e de estoque com Python, Shell e MySQL e criei aplicativos mobile (PWA) usados no dia a dia da operação.
+Coordenador de TI e Processos com mais de 12 anos de experiência em TI, no varejo e na educação, com foco em **automação de processos**, **integração de sistemas** (ERP, e-commerce, marketplace, APIs) e **desenvolvimento e automação com IA generativa**. Desenvolvi e mantive uma integração e-commerce x ERP (back-end em Python, APIs REST e webhooks) com cerca de 1.600 pedidos por mês, automatizei rotinas financeiras e de estoque com Python, Shell e MySQL e criei aplicativos mobile (PWA) usados no dia a dia da operação.
 
 Desenvolvo com IA generativa como ferramenta de trabalho. Aplico engenharia de prompt, reviso e entendo o código gerado, testo em homologação e documento antes de levar para produção.
 
@@ -51,7 +51,7 @@ As demos do Calendário e do EstoqueMax rodam com dados fictícios, direto no na
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
-## 🗄️ Bancos de dados e integração
+## 🗄️ Back-end, bancos de dados e integração
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
